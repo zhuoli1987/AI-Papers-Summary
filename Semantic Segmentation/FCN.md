@@ -1,6 +1,6 @@
 # Fully Convolutional Networks for Semantic Segmentation
-> Submitted on 14 Nov 2014
-  [Arxiv Link](https://arxiv.org/abs/1411.4038)
+>Submitted on 14 Nov 2014
+>[Arxiv Link](https://arxiv.org/abs/1411.4038)
 
 ## Key Contribution
 - Popularize the use of end to end convolutional networks for semantic segmentation
